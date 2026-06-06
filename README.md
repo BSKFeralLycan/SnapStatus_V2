@@ -179,7 +179,7 @@ Config → Security & Updates → Manual OTA Update
 
 ## Step 4
 
-Upload the SnapStatus V2.0.0 firmware file.
+Upload the SnapStatus V2 firmware file in Manual upload ( NOT BOOTLOADER UPDATE ) making sure to check box Ignore firmware validation
 
 Wait for WLED to update and reboot.
 
@@ -191,7 +191,7 @@ Config → Usermods → SnapmakerU1
 
 Enter your printer information and save.
 
-WLED will automatically reboot after saving changes.
+WLED SHOULD automatically reboot after saving changes. If it does not connect after hitting save and waiting a bit, please perform a manual reboot.
 
 ---
 
