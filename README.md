@@ -119,10 +119,12 @@ Length: 43
 Data GPIO: D2/2
 
 Reversed: NA
-Skip first LEDs: 
-0
+
+Skip first LEDs: 0
 
 Off Refresh: NA 
+
+## Test and make sure WLED is working with your LED Setup ( Base WLED should be working correctly before proceeding) 
 
 ## Printer IP
 After following the install steps below to step #5 input your printers info in as below:
@@ -163,7 +165,8 @@ Leave blank unless your Moonraker installation requires an API key.
 
 ## Step 1
 
-Install and configure WLED on a compatible ESP32 controller using WLED website: https://install.wled.me/
+Install and configure WLED on a compatible ESP32 controller using WLED website: https://install.wled.me/ 
+Test and make sure WLED is working with your LED Setup ( Base WLED should be working correctly before proceeding) 
 
 ## Step 2
 
