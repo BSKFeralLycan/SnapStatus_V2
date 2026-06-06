@@ -1,0 +1,4 @@
+{
+  "name": "usermod_v2_snap_status",
+  "build": { "libArchive": false }
+}
