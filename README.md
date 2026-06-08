@@ -1,5 +1,9 @@
 # SnapStatus V2
 
+[![GitHub release](https://img.shields.io/github/v/release/BSKFeralLycan/SnapStatus_V2)](https://github.com/BSKFeralLycan/SnapStatus_V2/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/BSKFeralLycan/SnapStatus_V2/total)](https://github.com/BSKFeralLycan/SnapStatus_V2/releases)
+[![GitHub License](https://img.shields.io/github/license/BSKFeralLycan/SnapStatus_V2)](https://github.com/BSKFeralLycan/SnapStatus_V2/blob/main/LICENSE)
+
 SnapStatus V2 is a WLED-based status display for the Snapmaker U1 that uses Moonraker integration to display printer activity on addressable RGB LEDs.
 
 This project is a major rework of the original SnapStatus concept, with a focus on easier setup, improved usability, configurable colors directly from the WLED interface, and simple OTA firmware updates.
